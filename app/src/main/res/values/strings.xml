@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="popular">Popular Movies</string>
+    <string name="toprated">Top Rated Movies</string>
+    <string name="fav">My favourite</string>
+    <string name="overView">Overview</string>
+    <string name="trailers">trailers</string>
+
+    <string name="username_error">Email cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+    <string name="real_email">Write real email with @ and .com</string>
+    <string name="real_pass">Write password with 8 characters contains only small , Capitals letters and numbers </string>
+    <string name="empty_mail_or_password">Empty e-mail and password</string>
+
+</resources>
